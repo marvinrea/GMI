@@ -1,0 +1,46 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  background-color:black;
+}
+      
+html {
+  font-size: 62.5%;
+  font-family: arial;
+}
+
+body {
+  margin: 0;
+  /*background-color: #F2F2F2;*/
+  background-color:black;
+}
+
+#drawCan {
+  background-color: #ffffff;
+}
+
+#plotCan {
+  background-color: #ffffff;
+}
+
+.box {
+  float: left;
+  width: 484px;
+  margin: 10px;
+  background-color: #cecece;
+}
+
+.button {
+  margin: 10px;
+}
+
+.thumbnail {
+  width: 100%;
+}
+
+.thumbLabel {
+  font-size:14px;
+  color: #000000; /* #FBA501; */
+  background-color: #ffffff;
+  margin-right: 2px;
+}
